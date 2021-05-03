@@ -1,4 +1,4 @@
-package com.cafekotlin.test
+package com.cafekotlin
 
 
     import com.cafekotlin.UtilResources
