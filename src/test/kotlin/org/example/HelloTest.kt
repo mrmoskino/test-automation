@@ -1,8 +1,11 @@
-package org.example
+package Seleniumwebdriverdemo
 
 import org.junit.Test
 import kotlin.test.assertEquals
 
-class HelloTest {
+class serchtraining {
+
+    WebDriver driver;
+
 
 }
